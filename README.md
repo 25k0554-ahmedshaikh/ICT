@@ -78,25 +78,25 @@
         <a href="https://mindblossom.org/?gad_source=1&gad_campaignid=21176698305&gbraid=0AAAAA9kgSoKjpQBfaGXaXCbzLYcbTC2O1&gclid=Cj0KCQjw3OjGBhDYARIsADd-uX4l_PvBmoo-8m9u7kQFKGEOMW70SN3piw5u578kcSTw24rE9mnsV90aAhkPEALw_wcB">
             Surprise! (external)
         </a><br>
-        <a href="Assets/Audio/Vibing Over Venus.mp3">
+        <a href="Lab06/Assets/Audio/Vibing Over Venus.mp3">
             Audio (internal link)
         </a><br>
-        <a href="newtab.html" target="_blank">
+        <a href="Lab06/newtab.html" target="_blank">
             New tab
         </a><br>
         <a href="mailto:k250554@nu.edu.pk">
             Email Link (k250554@nu.edu.pk)
         </a>
         <br>
-        <img src="Assets/Images/Lowkey.jpg" alt="Lowkey?" width="300" height="300">
+        <img src="Lab06/Assets/Images/Lowkey.jpg" alt="Lowkey?" width="300" height="300">
         <p>I am watching you, click the pic below to prove your innocence.</p>
-        <a href="Assets/Images/Lowkey.jpg"><img src="Assets/Images/doakey.jpg" alt="I am watching"></a>
+        <a href="Lab06/Assets/Images/Lowkey.jpg"><img src="Assets/Images/doakey.jpg" alt="I am watching"></a>
         <br>
         <audio controls>
-            <source src="Assets/Audio/Vibing Over Venus.mp3" type="audio/mpeg">
+            <source src="Lab06/Assets/Audio/Vibing Over Venus.mp3" type="audio/mpeg">
         </audio>
         <video controls width="320">
-            <source src="Assets/Video/Antarctica 2020 Penguins Short - UN Environment Programme (720p, h264).mp4" type="video/mp4">
+            <source src="Lab06/Assets/Video/Antarctica 2020 Penguins Short - UN Environment Programme (720p, h264).mp4" type="video/mp4">
         </video>
         <br>
         <h1>Form</h1>
