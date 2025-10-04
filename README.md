@@ -1,2 +1,130 @@
-# ICT
-Assignments for Information and Communication Technology
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h2>(Heading 2) Trauma</h2>
+        <h3>(Heading 3) Pakistan Cricket Team<sub>(1)</sub></h3>
+        <p>Being a pakistan cricket team fan takes a lot of courage and bravery. Till your last breath, you cannot- indeed you cannot trust this team at all.
+             It is similar to a dangerous harmful cult but this time.. the people are aware. They like self-harm.</p>
+        <p>This is <b>bold</b>, <strong>important</strong>, <i>italic</i>, <em>emphasized</em>, <mark>highlighted</mark>, <u>underlined</u>, H<sub>2</sub>O, E=mc<sup>2</sup> </p>
+        <p>Before break</p><br><p>after break</p>
+        <hr>
+        <p>horizontal rule.</p>
+        <pre>this text 
+            spaces</pre>
+        <code>printf("Hello world");</code>
+        <h2>Unordered List:</h2>
+        <ul>
+            <li>GG</li>
+            <li>GLHF</li>
+            <li>WP</li>
+        </ul>
+        <h2>Ordered List:</h2>
+        <ol>
+            <li>First</li>
+            <li>Second</li>
+            <li>Third</li>
+        </ol>
+        <h2>Nested List:</h2>
+        <ul>
+            <li>Fruits
+                <ol>
+                    <li>Mangoes</li>
+                    <li>Oranges</li>
+                    <li>Apples</li>
+                </ol>
+            </li>
+        </ul>
+        <br>
+        <table border="1">
+            <caption>Student Marks</caption>
+            <tr>
+                <th>Name</th>
+                <th>Maths</th>
+                <th>Science</th>
+            </tr>
+            <tr>
+                <td>Arshad</td>
+                <td>70</td>
+                <td>95</td>
+            </tr>
+            <tr>
+                <td>Abu Bakar</td>
+                <td>99</td>
+                <td>85</td>
+            </tr>
+        </table>
+
+        <table border="1">
+            <caption>Student Marks</caption>
+            <tr>
+                <th rowspan="2">Name</th>
+                <th rowspan="2">Scores</th>
+            </tr>
+            <tr>
+                <th>Maths</th>
+                <th>Science</th>
+            </tr>
+            <tr>
+                <td>Ali Baba</td>
+                <td>30</td>
+                <td>60</td>
+            </tr>
+        </table>
+        <a href="https://mindblossom.org/?gad_source=1&gad_campaignid=21176698305&gbraid=0AAAAA9kgSoKjpQBfaGXaXCbzLYcbTC2O1&gclid=Cj0KCQjw3OjGBhDYARIsADd-uX4l_PvBmoo-8m9u7kQFKGEOMW70SN3piw5u578kcSTw24rE9mnsV90aAhkPEALw_wcB">
+            Surprise! (external)
+        </a><br>
+        <a href="Assets/Audio/Vibing Over Venus.mp3">
+            Audio (internal link)
+        </a><br>
+        <a href="newtab.html" target="_blank">
+            New tab
+        </a><br>
+        <a href="mailto:k250554@nu.edu.pk">
+            Email Link (k250554@nu.edu.pk)
+        </a>
+        <br>
+        <img src="Assets/Images/Lowkey.jpg" alt="Lowkey?" width="300" height="300">
+        <p>I am watching you, click the pic below to prove your innocence.</p>
+        <a href="Assets/Images/Lowkey.jpg"><img src="Assets/Images/doakey.jpg" alt="I am watching"></a>
+        <br>
+        <audio controls>
+            <source src="Assets/Audio/Vibing Over Venus.mp3" type="audio/mpeg">
+        </audio>
+        <video controls width="320">
+            <source src="Assets/Video/Antarctica 2020 Penguins Short - UN Environment Programme (720p, h264).mp4" type="video/mp4">
+        </video>
+        <br>
+        <h1>Form</h1>
+        <br>
+        <form action="submit.php" method="post">
+            <label for="Name">Name:</label>
+            <input type="text" id="name" name="name">
+            <br><br>
+            <label for="Email">Email:</label>
+            <input type="email" id="email" name="email">
+            <br><br>
+            <label>Gender:</label>
+            <input type="radio" name="gender" value="male"> Male
+            <input type="radio" name="gender" value="male"> Female
+            <br><br>
+            <label>Hobbies:</label>
+            <input type="checkbox" name="hobby" value="reading"> Reading
+            <input type="checkbox" name="hobby" value="sports"> Sports
+            <br><br>
+            <select id="country" name="country">
+                <option>USA</option>
+                <option>UK</option>
+                <option>India</option>
+                <option>Pakistan</option>
+            </select><br><br>
+            <textarea rows="4" cols="30">Your message here...</textarea>
+            <br><br>
+            <input type="submit" value="Sumbit">
+        </form>
+    </body>
+</html>
